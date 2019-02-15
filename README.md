@@ -2,4 +2,4 @@
 
 A Simple Blog app written using Django
 
-[![Build Status](https://travis-ci.org/CEsarABC/django-blog-cesar.svg?branch=master)](https://travis-ci.org/CEsarABC/django-blog-cesar)
+[![Build Status](https://travis-ci.com/CEsarABC/django-blog-cesar.svg?branch=master)](https://travis-ci.com/CEsarABC/django-blog-cesar)
